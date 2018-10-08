@@ -19,7 +19,7 @@ Non-prepay people still have a chance to play:
 * empty slots will be allocated first come, first serve
 * subs pay $20
 
-Paul will maintain a waitlist when the invite is full.<br/>
+Mgmt will maintain a waitlist when the invite is full.<br/>
 If sub takes _**your**_ prepaid spot, you get your $18 back.<br/>
 Spots allocated to subs in the order in which owner marked OUT.
 
