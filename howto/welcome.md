@@ -1,3 +1,8 @@
+# Welcome!
+Welcome to Vallco "Invite Only" pickup:
+* Tuesday/Friday mornings
+* Saturday night
+
 Please **read everything** below so there is no confusion later.<br/>
 This pickup works because the patrons know the conventions that make it run smoothly.
 
@@ -12,9 +17,11 @@ Goalies, please pay particular attention to:
 
 Thanks!
 
-# Welcome!
-Welcome to Vallco Tuesday/Friday morning and Saturday night "Invite Only" pickup.
-You have been invited via sportgo using same **To:** address in your welcome email.
+# Sportgo
+
+[Sportgo](https://lite.sportgo.com/home) is used to send out event invites.
+You have been invited to [Vallco Pickup sportgo team](https://lite.sportgo.com/teams/MDMzYzFkZTJkODU5YmIxM2Q0NmNhZWZhNWM4NzMwYTU)
+using the same email address in the **To:** of your welcome email.
 Please look in your inbox for an email from **sportgo**,
 It should have a subject line **```Vallco Pickup is using Sportgo - Verify Your Membership```**.
 Please note, that the **sportgo** email may be in your spam folder, if so, please adjust spam settings.
@@ -32,7 +39,8 @@ On Sat nights, there is an open skate beforehand (crowded downstairs)
 and we tend to get dressed upstairs.
 
 # <a id="poc"/>Points Of Contact (POC)
-A welcome email will be sent to you with these people cc'd:
+A welcome email containing [a link to this document](https://github.com/fraley/rota/blob/master/howto/welcome.md)
+was sent to you with these people cc'd:
 * Daniel Garaycochea runs Saturday Night Pickup (roster, treasurer, goalies)
 * Eric Strasilla runs Vallco Tues/Fri morning pickup
 * Paul Fraley manages roster for Tues/Fri
@@ -58,7 +66,7 @@ If you want to be part of that group, send email to [POC](#poc).
 # Skater IOU List
 IOU list keeps tracked of skaters that owe money or skaters who are owed money.
 IOUs may be settled the next time you skate (reminder on sign-in sheet next to your name).
-Current IOU list is sent out in **Event Description** field of every sportgo invite.
+Current IOU list is sent out in **Event Description** field of every sportgo event invite.
 If you would like your name off the IOU list before your next skate,
 please arrange electronic payment with one of the [POC](#poc).
 
@@ -78,9 +86,9 @@ Examples of things that get a player suspended:
 
 # Goalies Do Not RSVP
 [POC](#poc) arranges for goalies in advance and RSVPs for goalies.
-Tue and Fri have regular goalies that are marked IN on invite when it goes out.
+We have regular goalies that are marked IN on invite when it goes out.
 When a substitute is needed, Ken Gudan (Tues and Fri) or
-Daniel Garaycochea (Sat) will contact goalies directly as soon as they know we need subs.
+Daniel Garaycochea (Sat) will contact goalies directly.
 Ken and Daniel handle the RSVPs for goalies in sportgo.
 
 # Skater Flake Rule
@@ -122,7 +130,8 @@ Note well: spots filled from wait list are taken **in the order FLAKERs mark OUT
 
 Even if it becomes apparent only 1 hour before the event that you cannot make it,
 please mark OUT if you can (some people check for open spots right before events
-and [Skater Wait List](#skater-wait-list) is considered right up to the last minute).
+and [Skater Wait List](#skater-wait-list) is considered right up to the last minute
+and your IOU will be waived if someone takes your spot).
 
 # Skater Wait List
 If you are a skater that wants to play and the event is full, please text a [POC](#poc):
@@ -136,9 +145,9 @@ If you want IN:
 * for all invites, first try to get IN, if successful, then [Confirm Your Choice](#confirm-your-choice)
 
 If you want IN and event is full:
-* if Tuesday, contact [POC](#poc) immediately
+if Tuesday, Saturday or [early summer hours](#early-summer), contact [POC](#poc) immediately
 * if Friday, Full-timers can contact [POC](#poc) immediately
-* if Friday, Spares may contact [POC](#poc) after Friday invite is open to Spares
+* if Friday, Spares may contact [POC](#poc) after Friday invite is open to Spares (some time Tuesday morning)
 
 If you are a skater that needs to [flake](skater-flake-rule):
 * please mark OUT early as possible
@@ -161,7 +170,7 @@ Why [Confirm Your Choice](#confirm-your-choice) is important:<br/>
 * when you mark IN or OUT, sportgo has been reported to not always give feedback when it fails to record your choice (whether you are using web browser, email, mobile app, etc)
 * so... sometimes, you may think you marked IN or OUT, but you actually did not
 
-Therefore, it is VERY important for you to always double check by doing the following:
+Therefore, it is **VERY** important for you to always double check by doing the following:
 
 <a id="confirm-your-choice"/>**Confirm Your Choice** on the sportgo **Event Page** using **Web Browser**:
 1. **start fresh**: go to https://app.sportgo.com/home
@@ -169,7 +178,7 @@ Therefore, it is VERY important for you to always double check by doing the foll
 1. you are now on the **Event Page** for that event
    * **Your Choice** is shown at the TOP of the **Event Page** (see the big IN/OUT toggle at **TOP** of the **Event Page**)
 
-Sportgo has changed the design of the **Event Page** and may change it in the future.
+Sportgo has changed the design of the **Event Page** in the past and may change it in the future.
 In the current version of **Event Page**, you will **also** be listed along with all of the other attendees.
 To determine if you are IN or OUT, however, please look at the IN or OUT choice recorded at the **TOP** of
 the **Event Page** and _**only after**_ you **start fresh**.
@@ -179,8 +188,8 @@ the **Event Page** and _**only after**_ you **start fresh**.
 If you do not respond to an event (no-RSVP), you are assumed OUT for that event.
 
 Marking IN < 24hrs before the event is ok, but then you are committed to that event.<br/>
-Going from IN &rarr; OUT < 24hrs before the event is ok, but is a late cancel.<br/>
-See [Skater Flake Rule](skater-flake-rule) for details.
+
+Going from IN &rarr; OUT < 24hrs before the event is ok, but is a [flake](skater-flake-rule) (see [Skater Flake Rule](skater-flake-rule) for details).
 
 **Please do not mark IN unless you plan on coming.**
 
@@ -192,7 +201,7 @@ We occasionally need a subs.  Having a cache of goalie contact info helps.
 
 # Details
 Invite for an event goes out a week in advance.
-Event time in invite is set to "scrimmage start".
+Event time in invite is set to "scrimmage start".<br/>
 "doors open" is always a half hour before "scrimmage start"
 
 REGULAR Tue: scrimmage 6:30am - 8:00am (doors open 6:00am).<br/>
@@ -203,7 +212,7 @@ SUMMER: scrimmage 6:30am - 7:45am (doors open 6:00am).<br/>
 Saturdays:
 scrimmage 10:15pm - 11:30pm, (doors open 9:45pm)
 
-Please pay and sign-in when you arrive (not after the event, please).
+Please pay and sign-in when you arrive (not after the event, please).<br/>
 Please arrive in time to be ready and warmed up by "scrimmage start" (see above).
 
 We need to start promptly at "scrimmage start".  Why it is important to be on time:
@@ -230,15 +239,16 @@ you will not be allowed to play if we are full.
 
 Your status starts out as **Spare**.  To find out your status:
 * go to the [Vallco Pickup team page](https://lite.sportgo.com/teams/MDMzYzFkZTJkODU5YmIxM2Q0NmNhZWZhNWM4NzMwYTU)
-* click on any of the open events
+* click on any of the events
 * you will see either **Spare** or **Full-time** under your name at the top of **Event Page**
 
 For Tuesday mornings, Saturday nights and [early summer hours](#early-summer):
 * everyone gets to respond immediately (no difference between Spare and Full-time)
+* if after [attempting to mark IN](#skater-marking-in-or-out), you [confirm](#confirm-your-choice) and find that you are OUT, try the [Skater Wait List](#skater-wait-list)
 
 For Friday mornings:
 * only Full-timers get to respond IN immediately after Friday invite goes out
 * Spares can respond IN to Friday invite when it is opened to Spares<br/>(sometime early morning after the next Tuesday invite is sent out)
-* if after you [Confirm Your Choice](#confirm-your-choice) you find that you are OUT, try the [Skater Wait List](#skater-wait-list)
+* if after [attempting to mark IN](#skater-marking-in-or-out), you [confirm](#confirm-your-choice) and find that you are OUT, try the [Skater Wait List](#skater-wait-list)
 
 [Eric](#poc) decides who gets promoted to **Full-time**.  Please contact [Eric](#poc) if you have questions about this.
