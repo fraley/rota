@@ -9,7 +9,7 @@ This pickup works because the patrons know the conventions that make it run smoo
 Skaters, please pay particular attention to:
 * [Skater Flake Rule](#skater-flake-rule)
 * [Confirm Your Choice](#confirm-your-choice)
-* [You start out as a Spare](#you-start-out-as-a-spare)
+* [Skater Spare vs. Full-time](#skater-spare-vs-full-time)
 
 Goalies, please pay particular attention to:
 * [Goalies](#goalies)
@@ -193,7 +193,7 @@ Going from IN &rarr; OUT < 24hrs before the event is ok, but is a [flake](#skate
 
 **Please do not mark IN unless you plan on coming.**
 
-# GOALIES
+# Goalies
 Goalies play for free.<br/>
 If you know a goalie that would like to play, point them to appropriate [POC](#poc).<br/>
 We try very hard to have two regular goalies and almost always do.<br/>
