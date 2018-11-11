@@ -9,7 +9,7 @@ This pickup works because the patrons know the conventions that make it run smoo
 Skaters, please pay particular attention to:
 * [Skater Flake Rule](#skater-flake-rule)
 * [Confirm Your Choice](#confirm-your-choice)
-* [You start out as a Spare](you-start-out-as-a-spare)
+* [You start out as a Spare](#you-start-out-as-a-spare)
 
 Goalies, please pay particular attention to:
 * [Goalies](#goalies)
@@ -121,7 +121,7 @@ If you know you cannot make it, marking OUT is a sign of good faith:
 * marking no-RSVP &rarr; OUT tells everyone you definitely cannot make it (helps with planning)
 * marking IN &rarr; OUT frees up a spot for someone else to play
 
-Marking IN &rarr; OUT &lt; 24 hrs before the event is a [flake](skater-flake-rule).
+Marking IN &rarr; OUT &lt; 24 hrs before the event is a [flake](#skater-flake-rule).
 When you cannot make it, marking OUT is better than leaving yourself IN (frowned upon by [POC](#poc)).
 Also, if [POC](#poc) is able to find a sub for you, you *MIGHT* be able to avoid IOU with [Skater Wait List](#skater-wait-list).
 Note well: spots filled from wait list are taken **in the order FLAKERs mark OUT**.
@@ -149,9 +149,9 @@ if Tuesday, Saturday or [early summer hours](#early-summer), contact [POC](#poc)
 * if Friday, Full-timers can contact [POC](#poc) immediately
 * if Friday, Spares may contact [POC](#poc) after Friday invite is open to Spares (some time Tuesday morning)
 
-If you are a skater that needs to [flake](skater-flake-rule):
+If you are a skater that needs to [flake](#skater-flake-rule):
 * please mark OUT early as possible
-* if many skaters [flake](skater-flake-rule), the order in which these skaters marked OUT matters:
+* if many skaters [flake](#skater-flake-rule), the order in which these skaters marked OUT matters:
    * first one to mark OUT gets IOU forgiven by the next wait lister
    * if there are no wait listers at the time you mark OUT, you will likely have IOU
 
@@ -189,7 +189,7 @@ If you do not respond to an event (no-RSVP), you are assumed OUT for that event.
 
 Marking IN < 24hrs before the event is ok, but then you are committed to that event.<br/>
 
-Going from IN &rarr; OUT < 24hrs before the event is ok, but is a [flake](skater-flake-rule) (see [Skater Flake Rule](skater-flake-rule) for details).
+Going from IN &rarr; OUT < 24hrs before the event is ok, but is a [flake](#skater-flake-rule) (see [Skater Flake Rule](#skater-flake-rule) for details).
 
 **Please do not mark IN unless you plan on coming.**
 
