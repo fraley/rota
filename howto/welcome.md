@@ -1,7 +1,10 @@
 # Welcome!
-Welcome to Vallco "Invite Only" pickup:
-* Tuesday/Friday mornings
-* Saturday night
+Welcome to Vallco "Invite Only" **Morning** Pickup:
+* **```Tue 6:30am-7:45am```** check ([upcoming schedule](../news/news.md))
+* **```Thu 7:15am-8:30am```** check ([upcoming schedule](../news/news.md))
+* **```Fri 6:30am-7:45am```** check ([upcoming schedule](../news/news.md))
+
+Aside: please [visit this page](https://docs.google.com/document/d/1e6UYNFmrvCi7fM4bLj8Qv0m4dCSBw4vzVBKEWP6DCe0/edit) for Saturday nights.
 
 Please **read everything** below so there is no confusion later.<br/>
 This pickup works because the patrons know the conventions that make it run smoothly.
@@ -9,7 +12,7 @@ This pickup works because the patrons know the conventions that make it run smoo
 Skaters, please pay particular attention to:
 * [Skater Flake Rule](#skater-flake-rule)
 * [Confirm Your Choice](#confirm-your-choice)
-* [Skater Spare vs. Full-time](#skater-spare-vs-full-time)
+* [Spare Skaters](#spare-skaters)
 
 Goalies, please pay particular attention to:
 * [Goalies](#goalies)
@@ -17,238 +20,263 @@ Goalies, please pay particular attention to:
 
 Thanks!
 
-# Sportgo
+# BenchApp
 
-[Sportgo](https://lite.sportgo.com/home) is used to send out event invites.
-You have been invited to [Vallco Pickup sportgo team](https://lite.sportgo.com/teams/MDMzYzFkZTJkODU5YmIxM2Q0NmNhZWZhNWM4NzMwYTU)
-using the same email address in the **To:** of your welcome email.
-Please look in your inbox for an email from **sportgo**,
-It should have a subject line **```Vallco Pickup is using Sportgo - Verify Your Membership```**.
-Please note, that the **sportgo** email may be in your spam folder, if so, please adjust spam settings.
-In that email, click the **CLICK HERE TO VERIFY** button and pick a password, etc.
-Recommend you do **NOT** put your phone number into sportgo.
-Then go to the outstanding invites (events) on the
-[Vallco Pickup team page](https://lite.sportgo.com/teams/MDMzYzFkZTJkODU5YmIxM2Q0NmNhZWZhNWM4NzMwYTU),
-mark IN or OUT and then [confirm your choices](#confirm-your-choice).
+[BenchApp](https://www.benchapp.com/) is used to send out event invites.
+You have been invited to [Vallco Morning Pickup](https://www.benchapp.com/switch/season/43082)
+team using the same email address in the **To:** of your welcome email.
+
+If you are **not** already registered with [BenchApp](https://www.benchapp.com/):
+* you should get email with subject line:
+  * **Your account has been created for the Vallco Morning Pickup**
+  * click on 'Login' in that email and use the temporary password provided in the email
+  * you will be asked to pick a new password
+
+If you **are** already registered with [BenchApp](https://www.benchapp.com/):
+* you should get email with subject line:
+  * **You've been added to the Vallco Morning Pickup**
+  * go to [BenchApp](https://www.benchapp.com/)
+  * if you are logged in, log out and then log back in
+  * look for a chevron (drop down menu) in the upper left corner of dashboard and pick **Vallco Morning Pickup**
+
+Please note, that the **BenchApp** email may be in your spam folder, if so, please adjust spam settings.
+
+For the rest of this document, **BenchApp** will be referred to as [InviteApp](#benchapp).
+
+### Privacy Recommendations
+
+Disclaimer:
+* [points of contact](#poc) take **NO RESPONSIBILITY** for what personal information you choose to put into [InviteApp](#benchapp)
+* below are recommendations only
+
+The [InviteApp](#benchapp) will want to get as much personal data from you as you will give it.
+
+Recommendations:
+* put in the bare minimum: full name and email address
+* recommend you do **NOT** put in anything else (like cell number, gender, birthdate, etc)
+
+**In conclusion**:
+* [POC](#poc) useds only your full name and email address to send you invites, so, why share anything else?
+
+### Notifications
+
+You can visit [Notifications](https://benchapp.com/player/notifications) to adjust
+when [InviteApp](#benchapp) is allowed to send you emails.
+
+[POC](#poc) recommends you leave on [team notifications](#communication) (see [Communication](#communication) below for reasoning).
+
+### Your First RSVP
+
+Provided you get to the [Vallco Morning Pickup BenchApp](https://www.benchapp.com/switch/season/43082)
+dashboard, you will see upcoming events.<br/>
+Please mark IN or OUT and then [Confirm Your Choice](#confirm-your-choice).
 
 # Finding Vallco (Cupertino Ice Center)
-Google for ```Cupertino Ice Center```.
-Get the address and directions before you try to head over.
-On Tue/Fri mornings, we get dressed right by the rink.
-On Sat nights, there is an open skate beforehand (crowded downstairs)
-and we tend to get dressed upstairs.
+Please google for [Cupertino Ice Center](https://www.google.com/search?&q=cupertino+ice+center)
+and get the address and directions _**before**_ you try to head over to the rink.
+The door will be shut, but unlocked.
+Rink management wants the door shut (especially in the summer),
+to keep the environment more consistent for better ice conditions.
 
 # <a id="poc"/>Points Of Contact (POC)
-A welcome email containing [a link to this document](https://github.com/fraley/rota/blob/master/howto/welcome.md)
-was sent to you with these people cc'd:
-* Daniel Garaycochea runs Saturday Night Pickup (roster, treasurer, goalies)
-* Eric Strasilla runs Vallco Tues/Fri morning pickup
-* Paul Fraley manages roster for Tues/Fri
-* Senad Durakovic is treasurer for Tues/Fri
-* Ken Gudan manages goalies for Tues/Fri
+A "welcome" email containing [a link to this document](https://github.com/fraley/rota/blob/master/howto/welcome.md) was sent to you with these people cc'd:
+* Eric Strasilla runs the pickup
+* Paul Fraley manages roster
+* Senad Durakovic is treasurer
+* Ken Gudan manages goalies
+* Daniel Garaycochea runs [Saturday night](https://docs.google.com/document/d/1e6UYNFmrvCi7fM4bLj8Qv0m4dCSBw4vzVBKEWP6DCe0)
 
-Please contact any of these people when you have a questions
-or feedback on anything in this document.
+Please contact any of these people when you have questions or feedback on anything in this document.<br/>
+Get the email addresses of POC from the "welcome" email that was sent to you.
 
 # Communication
-If you have a question, please send an email to [POC](#poc).
-The [POC](#poc) will use sportgo email for team notifications.
-You must register with sportgo to get these emails.
+If you have a question, please send an email to one or more [POC](#poc) members.
 
-Adjust these two toggles under [Notification Settings](https://lite.sportgo.com/identity/notifications/settings/) (drop down under your name in upper left hand corner of page):
-* **Email Notifications** (suggest you set this one to ON)
-* **Marketing Notifications** (suggest you set this one to OFF)
+The [POC](#poc) will use [team notifications](#notifications) feature of [InviteApp](#benchapp)
+for broadcast communication.  For example, skate cancellations will be communicated
+via [team notifications](#notifications).
+You must register with [InviteApp](#benchapp) (and potentially adjust
+[notification settings](#notifications) if you changed the defaults) to get these emails.
 
 There is also a Facebook group [Vallco Invite Only Pickup](https://www.facebook.com/groups/258581284603198/)
-that we use to post funny photos etc (we do not use it important notifications).
-If you want to be part of that group, send email to [POC](#poc).
+that patrons use to post funny photos, etc ([POC](#poc) does **not** use Facebook for important
+notifications). If you want to be part of that group, please send email to [POC](#poc).
 
 # Skater IOU List
 IOU list keeps tracked of skaters that owe money or skaters who are owed money.
 IOUs may be settled the next time you skate (reminder on sign-in sheet next to your name).
-Current IOU list is sent out in **Event Description** field of every sportgo event invite.
-If you would like your name off the IOU list before your next skate,
+Current IOU list is under **Notes** field of every [InviteApp](#benchapp) invite
+(please note that as IOUs are settled, [POC](#poc) does not necessary go back and update this
+field of existing invites).  The last invite sent out will have the most up to date
+IOU information.  If you would like to settle your IOU before your next skate,
 please arrange electronic payment with one of the [POC](#poc).
 
 # Invite Only
 This is an "invite only" pickup in that it is a private event not open to public.
-Only people invited via sportgo team
-[Vallco Pickup](https://lite.sportgo.com/teams/MDMzYzFkZTJkODU5YmIxM2Q0NmNhZWZhNWM4NzMwYTU)
-are allowed to attend.
-[POC](#poc) are under no obligation to invite someone or keep inviting someone.  People who
-show up unannounced are not allowed to play.  If you have a friend that would like
-to play, great, please send their contact info to [POC](#poc).  At the discretion of [POC](#poc),
-anyone's membership of team "Vallco Pickup" may be suspended.
+Only people invited to [Vallco Morning Pickup](https://www.benchapp.com/switch/season/43082)
+are allowed to attend. People who show up unannounced are not allowed to play.
 
-Examples of things that get a player suspended:
-* IOU(s) more than one year old
+If you would like to refer a friend, great, please send their contact info to [POC](#poc).<br/>
+[POC](#poc) is under no obligation to invite someone or keep inviting someone.
+
+At the discretion of [POC](#poc),
+anyone may be uninvited from [Vallco Morning Pickup](https://www.benchapp.com/switch/season/43082).
+
+Examples of things that get a player uninvited:
+* combative
 * style of play lends itself to people getting hurt
+* IOU(s) more than one year old
 
 # Goalies Do Not RSVP
-[POC](#poc) arranges for goalies in advance and RSVPs for goalies.
-We have regular goalies that are marked IN on invite when it goes out.
-When a substitute is needed, Ken Gudan (Tues and Fri) or
-Daniel Garaycochea (Sat) will contact goalies directly.
-Ken and Daniel handle the RSVPs for goalies in sportgo.
+[POC](#poc) arranges for goalies in advance and RSVPs for goalies.<br/>
+[POC](#poc) marks "regular" goalies IN when the invite goes out.<br/>
+When a regular cannot make it, [POC](#poc) will:
+* contact substitute goalies directly
+* RSVP for the goalie
+
+# Skater No RSVP
+* you are not required to RSVP
+* if you do not RSVP, you are assumed **OUT**
+* marking **OUT** when you know you cannot make it: [is encouraged](#skater-mark-out)
+* marking **IN** is encouraged: **come on, let's play!** &#128513;
 
 # Skater Flake Rule
-If you do not mark IN or OUT, you are assumed OUT and will not be allowed to play.
+By marking IN, you are committing to **play**.<br/>
+When marked IN at any time **&lt;** 24hrs before the event, you are committing to **pay**.
 
-Please do not mark IN unless you are planning to show.
-
-**24hrs before the event** is 24hrs before event time in sportgo (scrimmage start):
-* 24hrs before Tuesday Pickup is Monday 6:30am (6:30am in summer)
-* 24hrs before Friday Pickup is Thursday 7:00am (6:30am in summer)
-* 24hrs before Saturday Pickup is Friday 10:15pm
-
-By marking IN, you are committing to play:
-* If your choice is IN &lt; 24hrs before the event, you are committed to play
-* If you mark IN at any time &lt; 24hrs before the event, you are committed to play
-* If you fail to show after committing to play, this action is a **FLAKE**
+Sepcifically:
+* If your choice is IN **&lt;** 24hrs before the event, you are committed to **pay**
+* If you mark IN at any time **&lt;** 24hrs before the event, you are committing to **pay**
+* If you fail to show after committing to **pay**, this action is called a **FLAKE**
 * If you **FLAKE**, you will be put on the IOU list and you will owe the per skater cost for that event
 * If you need to **FLAKE** (life happens), you *MIGHT* be able to avoid IOU with [Skater Wait List](#skater-wait-list)
 
-Please see [Confirm Your Choice](#confirm-your-choice) and make sure your choice is recorded.
+Please see [Confirm Your Choice](#confirm-your-choice) and make sure you are aware of how you RSVP'd.
+
+The time listed as the start time of event in the [InviteApp](#benchapp) is the **scrimmage start time**.
+
+As of 2019-07-21:
+* 24hrs before Tue morning skate is Mon 6:30am
+* 24hrs before Thu morning skate is Wed 7:15am
+* 24hrs before Fri morning skate is Thu 6:30am
+
+**NOTE WELL: check event itself for start time:**
+* again, the times listed above are based on [upcoming schedule](../news/news.md) as of 2019-07-21
+
+**In conclusion**:
+* please do **not** mark IN unless you plan on **playing**
+* please do **not** be IN anytime with **&lt;** 24hrs before the event unless you plan on **paying**
+* all 20 spots must be paid for in order for [POC](#poc) to cover rink cost
+* no patron of [Vallco Morning Pickup](https://www.benchapp.com/switch/season/43082) (including [POC](#poc)) is making a profit
+* [POC](#poc) members pay the per skater fee for each event, same as everyone else
+* [POC](#poc) members pay IOUs when they flake, same as everyone else
 
 If you have any questions or feedback about the **FLAKE** rule, please contact the [POC](#poc).
 
 # Skater Mark Out
-If you do not mark IN or OUT (no-RSVP), you are assumed OUT and will not be allowed to play.
 
-There is contention for spots.  The number of skaters is capped at 20.
+You are encouraged to mark **OUT** as soon as you know you cannot make it:
+* marking **no-RSVP &rarr; OUT**:
+  * tells everyone you definitely cannot make it
+  * [POC](#poc) will try not to ping you (via text) about open spots if they know you cannot make it
+* marking **IN &rarr; OUT**:
+  * may free up a spot for someone else to play
+  * may save you from an IOU
 
-If you know you cannot make it, marking OUT is a sign of good faith:
-* marking no-RSVP &rarr; OUT tells everyone you definitely cannot make it (helps with planning)
-* marking IN &rarr; OUT frees up a spot for someone else to play
+Marking IN &rarr; OUT &lt; 24 hrs before the event, is a [flake](#skater-flake-rule), _**however:**_
+* you still _**should**_ mark OUT when you know you cannot make it
+* marking OUT is better than leaving yourself IN and not showing (frowned upon by [POC](#poc))
+* if someone on the wait list takes _**your**_ spot, your IOU is forgiven
+* flaked spots are filled from wait list **in the order skaters mark OUT** (so, mark OUT early if you need to)
 
-Marking IN &rarr; OUT &lt; 24 hrs before the event is a [flake](#skater-flake-rule).
-When you cannot make it, marking OUT is better than leaving yourself IN (frowned upon by [POC](#poc)).
-Also, if [POC](#poc) is able to find a sub for you, you *MIGHT* be able to avoid IOU with [Skater Wait List](#skater-wait-list).
-Note well: spots filled from wait list are taken **in the order FLAKERs mark OUT**.
+**In conclusion**, the earlier you mark OUT the better:
+* if **&gt;** 24hrs before event, no IOU
+* if **&lt;** 24hrs before event, a wait lister might get your IOU forgiven
 
-**Bottom line**: if you cannot make it, it is better for everyone (including you) if you mark OUT as soon as possible.
-
-Even if it becomes apparent only 1 hour before the event that you cannot make it,
-please mark OUT if you can (some people check for open spots right before events
-and [Skater Wait List](#skater-wait-list) is considered right up to the last minute
-and your IOU will be waived if someone takes your spot).
+Even if it becomes apparent only 1 hour before the event that you cannot make it:
+* please mark OUT if you able to
+* some patrons check for open spots the morning of events
+* [Skater Wait List](#skater-wait-list) is considered right up to the last minute
 
 # Skater Wait List
-If you are a skater that wants to play and the event is full, please text a [POC](#poc):
-* Paul Fraley for Tue/Fri morn skates
-* Daniel Garaycochea for Sat nights skates
+If you attempt to mark IN and the event is full, you will be added to **WAIT LIST** immediately.<br/>
+Your position on the wait list is based on when you attempted to mark IN (list order: ascending attempt time).<br/>
+As players transition **IN &rarr; OUT**, the player at the top of **WAIT LIST** is moved to **ATTENDING** list.
 
-Your position on the wait list is the order in which your text was received.<br/>
-Your position is secured by [POC](#poc) using fake skaters **WAIT LIST1**, **WAIT LIST2**, ...
+**WARNING**, consider this scenario:
+* you go to sleep the night before event as a member of **WAIT LIST**
+* enough people transition **IN &rarr; OUT** in the middle of the night that you are now on **ATTENDING** list
+* as per [flake rule](#skater-flake-rule):<br/>_"When marked IN at any time **&lt;** 24hrs before the event, you are now committing to **pay**._<br/>**you are now committed to pay**
+* suggest: mark **OUT** the night before if you do not intend to wake up early and [confirm your choice](#confirm-your-choice)
 
-If you want IN:
-* for all invites, first try to get IN, if successful, then [Confirm Your Choice](#confirm-your-choice)
+**As always, follow [confirm your choice](#confirm-your-choice) instructions after any RSVP and see where you actually ended up.**<br/>
 
-If you want IN and event is full:
-if Tuesday, Saturday or [early summer hours](#early-summer), contact [POC](#poc) immediately
-* if Friday, Full-timers can contact [POC](#poc) immediately
-* if Friday, Spares may contact [POC](#poc) after Friday invite is open to Spares (some time Tuesday morning)
+# Confirm Your Choice
 
-If you are a skater that needs to [flake](#skater-flake-rule):
-* please mark OUT early as possible
-* if many skaters [flake](#skater-flake-rule), the order in which these skaters marked OUT matters:
-   * first one to mark OUT gets IOU forgiven by the next wait lister
-   * if there are no wait listers at the time you mark OUT, you will likely have IOU
-
-# Skater Marking IN or OUT
-Sportgo has multiple ways to mark IN or OUT: web browser (desktop/laptop), email, mobile app, etc.<br/>
-The mobile app is the same web interface available to desktop/laptop.
-
-We recommend people use web browser on desktop/laptop method to:
-* mark IN or OUT
-* [Confirm Your Choice](#confirm-your-choice)
-
-Email and mobile app may let you mark IN or OUT when you cannot get to a desktop/laptop...<br/>
-**HOWEVER**, please web browser on desktop/laptop and steps 1, 2, 3 below to [Confirm Your Choice](#confirm-your-choice).
-
-Why [Confirm Your Choice](#confirm-your-choice) is important:<br/>
-* when you mark IN or OUT, sportgo has been reported to not always give feedback when it fails to record your choice (whether you are using web browser, email, mobile app, etc)
-* so... sometimes, you may think you marked IN or OUT, but you actually did not
-
-Therefore, it is **VERY** important for you to always double check by doing the following:
-
-<a id="confirm-your-choice"/>**Confirm Your Choice** on the sportgo **Event Page** using **Web Browser**:
-1. **start fresh**: go to https://app.sportgo.com/home
+**Confirm Your Choice** on the [InviteApp](#benchapp) **Event Page** using **Web Browser**:
+1. **start fresh**: go to [Vallco Morning Pickup](https://www.benchapp.com/switch/season/43082) dashboard
 1. find the event **and click on the event**
 1. you are now on the **Event Page** for that event
-   * **Your Choice** is shown at the TOP of the **Event Page** (see the big IN/OUT toggle at **TOP** of the **Event Page**)
+1. see your choice at the **TOP** of the **Event Page** (see big IN/OUT toggle)
 
-Sportgo has changed the design of the **Event Page** in the past and may change it in the future.
-In the current version of **Event Page**, you will **also** be listed along with all of the other attendees.
-To determine if you are IN or OUT, however, please look at the IN or OUT choice recorded at the **TOP** of
-the **Event Page** and _**only after**_ you **start fresh**.
-
-**Start fresh** is important.  You force the web browser to refresh its view with what sportgo actually recorded.
-
-If you do not respond to an event (no-RSVP), you are assumed OUT for that event.
-
-Marking IN < 24hrs before the event is ok, but then you are committed to that event.<br/>
-
-Going from IN &rarr; OUT < 24hrs before the event is ok, but is a [flake](#skater-flake-rule) (see [Skater Flake Rule](#skater-flake-rule) for details).
-
-**Please do not mark IN unless you plan on coming.**
+**Start fresh** is important: forces web browser to show what the [InviteApp](#benchapp) backend has actually recorded.
 
 # Goalies
-Goalies play for free.<br/>
-If you know a goalie that would like to play, point them to appropriate [POC](#poc).<br/>
-We try very hard to have two regular goalies and almost always do.<br/>
-We occasionally need a subs.  Having a cache of goalie contact info helps.
+* goalies play for free
+* if you know a goalie that would like to play, please contact [POC](#poc)
+* [POC](#poc) tries very hard to have two goalies (regulars and/or subs) at every event and almost always does:
+  * but only with your help, most goalies find their way to [Vallco Morning Pickup](https://www.benchapp.com/switch/season/43082) through referrals!
+  * finding subs is easier with a healthy cache of goalie contact info
 
 # Details
+
 Invite for an event goes out a week in advance.
 Event time in invite is set to "scrimmage start".<br/>
 "doors open" is always a half hour before "scrimmage start"
 
-REGULAR Tue: scrimmage 6:30am - 8:00am (doors open 6:00am).<br/>
-REGULAR Fri: scrimmage 7:00am - 8:30am (doors open 6:30am).<br/>
-SUMMER: scrimmage 6:30am - 7:45am (doors open 6:00am).<br/>
-<a id="early-summer"/>EARLY SUMMER: scrimmage 5:15am - 6:30am (doors open 4:45am).<br/>
+As of 2019-07-21:
+* Tue: scrimmage 6:30am - 8:00am (doors open 6:00am)
+* Thu: scrimmage 7:15am - 8:30am (doors open 6:45am)
+* Fri: scrimmage 6:30am - 8:00am (doors open 6:00am)
 
-Saturdays:
-scrimmage 10:15pm - 11:30pm, (doors open 9:45pm)
+Check ([upcoming schedule](../news/news.md)) for any special timings (holidays, summer hours, etc).
 
 Please pay and sign-in when you arrive (not after the event, please).<br/>
-Please arrive in time to be ready and warmed up by "scrimmage start" (see above).
-
-We need to start promptly at "scrimmage start".  Why it is important to be on time:
-* in the mornings, people need to get to work (start early, end early)
-* at night, Zamboni driver wants to go home (going past "scrimmage end" may or may not happen)
-
-Bottom line: we want to maximize our ice time (at least 1.25hrs).  Please be on time.
+Please arrive in time to be ready and warmed up by "scrimmage start" (see above):
+* in the mornings, people need to get to work (start early, end early).
+* patrons want to maximize their ice time (at least 1.25hrs)
 
 Vallco has legit showers upstairs.  For morning sessions, many people head straight to work after.
 
-We cap each session at 22 players (20 skaters and 2 goalies).<br/>
-This makes it nice (2 lines, 5 on 5):
+[POC](#poc) caps each session at 22 players (20 skaters and 2 goalies).<br/>
+The result is 2 lines, 5 on 5:
 * A-line (Sharks Ice - 5, 6, 7a levels)
 * B-line (Sharks Ice - 7b, 8 levels)
 
-Sportgo will not allow more than 20 skaters and 2 goalies per event.
+[InviteApp](#BenchApp) will not allow more than 20 skaters and 2 goalies per event.
+If you show up and are not listed on the sign-in sheet, you will not be allowed to play
+if we are full &#128550;. Suggest: [confirming your choice](#confirm-your-choice) in [InviteApp](#benchapp)
+to make absolutely sure your RSVP was recorded properly before waking up early and heading to the rink.
 
-If, for example, you failed to [Confirm Your Choice](#confirm-your-choice) on the sportgo EVENT PAGE
-(see [Confirm Your Choice](#confirm-your-choice) above) after you *thought* you marked IN and you show
-up at "doors open" time (see "doors open" above) to find yourself not on the sign-in sheet,
-you will not be allowed to play if we are full.
-
-# Skater Spare vs. Full-time
+# Spare Skaters
 
 Your status starts out as **Spare**.  To find out your status:
-* go to the [Vallco Pickup team page](https://lite.sportgo.com/teams/MDMzYzFkZTJkODU5YmIxM2Q0NmNhZWZhNWM4NzMwYTU)
-* click on any of the events
-* you will see either **Spare** or **Full-time** under your name at the top of **Event Page**
+* go to [Vallco Morning Pickup](https://www.benchapp.com/switch/season/43082) team page
+* click the circle with your initials in the upper right hand corner of page
+* your full name will be followed by your status (ROSTER or SPARE)
 
-For Tuesday mornings, Saturday nights and [early summer hours](#early-summer):
-* everyone gets to respond immediately (no difference between Spare and Full-time)
-* if after [attempting to mark IN](#skater-marking-in-or-out), you [confirm](#confirm-your-choice) and find that you are OUT, try the [Skater Wait List](#skater-wait-list)
+All events:
+* invites go out approximately 6 days and 21 hours before event start time
+* as soon as invite is out
+  * anyone can immediately mark **OUT**
+  * anyone can immediately _**attempt**_ to mark **IN**
+     * if event is full, player will be placed on **WAIT LIST** immediately
+     * if event is not full, player will be placed on **ATTENDING** immediately<br/>(except Friday events, see **caveats** below)
 
-For Friday mornings:
-* only Full-timers get to respond IN immediately after Friday invite goes out
-* Spares can respond IN to Friday invite when it is opened to Spares<br/>(sometime early morning after the next Tuesday invite is sent out)
-* if after [attempting to mark IN](#skater-marking-in-or-out), you [confirm](#confirm-your-choice) and find that you are OUT, try the [Skater Wait List](#skater-wait-list)
+Fridays event caveats:
+* spares attempting to mark IN when invite first goes out are immediately placed on **WAIT LIST**
+* when the Tuesday invite is sent out
+  * the next Friday event is open to spares and [wait listers are taken in order](#skater-wait-list)
 
-[Eric](#poc) decides who gets promoted to **Full-time**.  Please contact [Eric](#poc) if you have questions about this.
+[Eric](#poc) decides when a player goes from **SPARE** &rarr; **ROSTER**.<br/>
+Please contact [Eric](#poc) if you have questions about this.
