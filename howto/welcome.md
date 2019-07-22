@@ -27,16 +27,15 @@ You have been invited to [Vallco Morning Pickup](https://www.benchapp.com/switch
 team using the same email address in the **To:** of your welcome email.
 
 If you are **not** already registered with [BenchApp](https://www.benchapp.com/):
-* you should get email with subject line:
+* you should get an email with subject line:
   * **Your account has been created for the Vallco Morning Pickup**
   * click on 'Login' in that email and use the temporary password provided in the email
   * you will be asked to pick a new password
 
 If you **are** already registered with [BenchApp](https://www.benchapp.com/):
-* you should get email with subject line:
+* you should get an email with subject line:
   * **You've been added to the Vallco Morning Pickup**
-  * go to [BenchApp](https://www.benchapp.com/)
-  * if you are logged in, log out and then log back in
+  * log into [BenchApp](https://www.benchapp.com/) (if you are already logged in, log out and then log back in)
   * look for a chevron (drop down menu) in the upper left corner of dashboard and pick **Vallco Morning Pickup**
 
 Please note, that the **BenchApp** email may be in your spam folder, if so, please adjust spam settings.
@@ -46,17 +45,14 @@ For the rest of this document, **BenchApp** will be referred to as [InviteApp](#
 ### Privacy Recommendations
 
 Disclaimer:
-* [points of contact](#poc) take **NO RESPONSIBILITY** for what personal information you choose to put into [InviteApp](#benchapp)
+* [points of contact](#poc) take **no responsibility** for what personal information you choose to put into [InviteApp](#benchapp)
 * below are recommendations only
 
 The [InviteApp](#benchapp) will want to get as much personal data from you as you will give it.
 
 Recommendations:
-* put in the bare minimum: full name and email address
+* put in the bare minimum: full name and email address (this is all that is required to get invites)
 * recommend you do **NOT** put in anything else (like cell number, gender, birthdate, etc)
-
-**In conclusion**:
-* [POC](#poc) useds only your full name and email address to send you invites, so, why share anything else?
 
 ### Notifications
 
@@ -94,12 +90,11 @@ If you have a question, please send an email to one or more [POC](#poc) members.
 
 The [POC](#poc) will use [team notifications](#notifications) feature of [InviteApp](#benchapp)
 for broadcast communication.  For example, skate cancellations will be communicated
-via [team notifications](#notifications).
-You must register with [InviteApp](#benchapp) (and potentially adjust
-[notification settings](#notifications) if you changed the defaults) to get these emails.
+via [team notifications](#notifications).  You must register with [InviteApp](#benchapp)
+to get invites and [team notifications](#notifications).
 
-There is also a Facebook group [Vallco Invite Only Pickup](https://www.facebook.com/groups/258581284603198/)
-that patrons use to post funny photos, etc ([POC](#poc) does **not** use Facebook for important
+There is also a [Vallco Invite Only Pickup Facebook Group](https://www.facebook.com/groups/258581284603198/)
+that patrons use for fun, post photos, etc ([POC](#poc) does **not** use Facebook for important
 notifications). If you want to be part of that group, please send email to [POC](#poc).
 
 # Skater IOU List
@@ -132,9 +127,9 @@ Examples of things that get a player uninvited:
 [POC](#poc) marks "regular" goalies IN when the invite goes out.<br/>
 When a regular cannot make it, [POC](#poc) will:
 * contact substitute goalies directly
-* RSVP for the goalie
+* RSVP for the substitute goalie
 
-# Skater No RSVP
+# Skater RSVP
 * you are not required to RSVP
 * if you do not RSVP, you are assumed **OUT**
 * marking **OUT** when you know you cannot make it: [is encouraged](#skater-mark-out)
@@ -184,17 +179,17 @@ You are encouraged to mark **OUT** as soon as you know you cannot make it:
   * may save you from an IOU
 
 Marking IN &rarr; OUT &lt; 24 hrs before the event, is a [flake](#skater-flake-rule), _**however:**_
-* you still _**should**_ mark OUT when you know you cannot make it
+* you _**should**_ still mark OUT when you know you cannot make it
 * marking OUT is better than leaving yourself IN and not showing (frowned upon by [POC](#poc))
 * if someone on the wait list takes _**your**_ spot, your IOU is forgiven
 * flaked spots are filled from wait list **in the order skaters mark OUT** (so, mark OUT early if you need to)
 
 **In conclusion**, the earlier you mark OUT the better:
 * if **&gt;** 24hrs before event, no IOU
-* if **&lt;** 24hrs before event, a wait lister might get your IOU forgiven
+* if **&lt;** 24hrs before event, a wait lister might wipe your IOU
 
 Even if it becomes apparent only 1 hour before the event that you cannot make it:
-* please mark OUT if you able to
+* please mark OUT if you able to (get the mobile app)
 * some patrons check for open spots the morning of events
 * [Skater Wait List](#skater-wait-list) is considered right up to the last minute
 
@@ -206,6 +201,7 @@ As players transition **IN &rarr; OUT**, the player at the top of **WAIT LIST** 
 **WARNING**, consider this scenario:
 * you go to sleep the night before event as a member of **WAIT LIST**
 * enough people transition **IN &rarr; OUT** in the middle of the night that you are now on **ATTENDING** list
+* you sleep in thinking you are not **IN**
 * as per [flake rule](#skater-flake-rule):<br/>_"When marked IN at any time **&lt;** 24hrs before the event, you are now committing to **pay**._<br/>**you are now committed to pay**
 * suggest: mark **OUT** the night before if you do not intend to wake up early and [confirm your choice](#confirm-your-choice)
 
@@ -214,12 +210,12 @@ As players transition **IN &rarr; OUT**, the player at the top of **WAIT LIST** 
 # Confirm Your Choice
 
 **Confirm Your Choice** on the [InviteApp](#benchapp) **Event Page** using **Web Browser**:
-1. **start fresh**: go to [Vallco Morning Pickup](https://www.benchapp.com/switch/season/43082) dashboard
+1. go to [Vallco Morning Pickup](https://www.benchapp.com/switch/season/43082) dashboard
 1. find the event **and click on the event**
-1. you are now on the **Event Page** for that event
+1. you now have a **refreshed view** of the **Event Page** for that event
 1. see your choice at the **TOP** of the **Event Page** (see big IN/OUT toggle)
 
-**Start fresh** is important: forces web browser to show what the [InviteApp](#benchapp) backend has actually recorded.
+A **refreshed view** is important.  By following he process above, you are forcing the web browser to show what the [InviteApp](#benchapp) backend actually has for your RSVP.
 
 # Goalies
 * goalies play for free
@@ -256,11 +252,12 @@ The result is 2 lines, 5 on 5:
 [InviteApp](#BenchApp) will not allow more than 20 skaters and 2 goalies per event.
 If you show up and are not listed on the sign-in sheet, you will not be allowed to play
 if we are full &#128550;. Suggest: [confirming your choice](#confirm-your-choice) in [InviteApp](#benchapp)
-to make absolutely sure your RSVP was recorded properly before waking up early and heading to the rink.
+to make absolutely sure your RSVP is what you believe it to be before waking up early and
+heading to the rink.
 
 # Spare Skaters
 
-Your status starts out as **Spare**.  To find out your status:
+Your status starts out as **SPARE**.  To find out your status:
 * go to [Vallco Morning Pickup](https://www.benchapp.com/switch/season/43082) team page
 * click the circle with your initials in the upper right hand corner of page
 * your full name will be followed by your status (ROSTER or SPARE)
