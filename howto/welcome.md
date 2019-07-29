@@ -151,10 +151,10 @@ When marked IN at any time **&lt;** 24hrs before the event, you are committing t
 
 Sepcifically:
 * If your choice is IN **&lt;** 24hrs before the event, you are committed to **pay**
-* If you mark IN at any time **&lt;** 24hrs before the event, you are committing to **pay**
-* If you fail to show after committing to **pay**, this action is called a **FLAKE**
+* If you mark IN (or join WAIT LIST) at any time **&lt;** 24hrs before the event, you are committing to **pay**
+* If you are on **ATTENDING** list and fail to show after committing to **pay**, this action is called a **FLAKE**
 * If you **FLAKE**, you will be put on the IOU list and you will owe the per skater cost for that event
-* If you need to **FLAKE** (life happens), you *MIGHT* be able to avoid IOU with [Skater Wait List](#skater-wait-list)
+* If you need to **FLAKE** (life happens), [mark OUT](#skater-mark-out) and you *MIGHT* be able to avoid IOU with [Skater Wait List](#skater-wait-list)
 
 Please see [Confirm Your RSVP Status](#confirm-your-rsvp-status) and make sure you are aware of how you RSVP'd.
 
@@ -169,7 +169,7 @@ As of 2019-07-21:
 * again, the times listed above are based on [upcoming schedule](../news/news.md) as of 2019-07-21
 
 **In conclusion**:
-* please do **not** mark IN unless you plan on **playing**
+* please do **not** mark IN (or join WAIT LIST) unless you plan on **playing**
 * please do **not** be IN anytime with **&lt;** 24hrs before the event unless you plan on **paying**
 * all 20 spots must be paid for in order for [POC](#poc) to cover rink cost
 * no patron of [Vallco Morning Pickup](https://www.benchapp.com/switch/season/43082) (including [POC](#poc)) makes a profit on the pickup
@@ -204,16 +204,18 @@ Even if it becomes apparent only 1 hour before the event that you cannot make it
 * [Skater Wait List](#skater-wait-list) is considered right up to the last minute
 
 # Skater Wait List
-If you attempt to mark IN and the event is full, you will be added to **WAIT LIST** immediately.<br/>
-Your position on the wait list is based on when you attempted to mark IN (list order: ascending attempt time).<br/>
-As players transition **IN &rarr; OUT**, the player at the top of **WAIT LIST** is moved to **ATTENDING** list.
+If you would like to attend a full event, you may add yourself to **WAIT LIST**.
+The time at which you enter the wait list is recorded.
+The wait list is sorted by this timestamp in ascending order.
+When a player leaves the **ATTENDING** list, the player at the top of **WAIT LIST**
+is moved to **ATTENDING** list.
 
 **WARNING**, consider this scenario:
 * you go to sleep the night before event as a member of **WAIT LIST**
-* enough people transition **IN &rarr; OUT** in the middle of the night that you are now on **ATTENDING** list
-* you sleep in thinking you are not **IN**
+* enough people exit the **ATTENDING** list that _***you***_ are now on the **ATTENDING** list
+* you go to sleep in thinking you are not on **ATTENDING** list
 * as per [flake rule](#skater-flake-rule):<br/>_"When marked IN at any time **&lt;** 24hrs before the event, you are now committing to **pay**._<br/>**you are now committed to pay**
-* suggest: mark **OUT** the night before if you do not intend to wake up early and [confirm your RSVP status](#confirm-your-rsvp-status)
+* suggest: take yourself **OFF** the wait list the night before if you do not intend to wake up early and [confirm your RSVP status](#confirm-your-rsvp-status)
 
 **As always, follow [confirm your RSVP status](#confirm-your-rsvp-status) instructions after any RSVP and see where you actually ended up.**<br/>
 
@@ -259,7 +261,7 @@ The result is 2 lines, 5 on 5:
 * A-line (approximate skill: Sharks Ice - 5, 6, 7a levels)
 * B-line (approximate skill: Sharks Ice - 7b, 8 levels)
 
-[InviteApp](#BenchApp) will not allow more than 20 skaters and 2 goalies per event.
+[InviteApp](#benchapp) will not allow more than 20 skaters and 2 goalies per event.
 If you show up and are not listed on the sign-in sheet, you will not be allowed to play
 if we are full &#128550;. Suggest: [confirming your RSVP status](#confirm-your-rsvp-status) in [InviteApp](#benchapp)
 to make absolutely sure your RSVP is what you believe it to be before waking up early and
@@ -268,24 +270,21 @@ heading to the rink.
 # Spare Skaters
 
 There is contention for spots, and even though [POC](#poc) tries hard to make it so everyone
-gets a chance to play, the people that have been here longest, played the most,
-help out the most, etc are classified as **FullTime**.
+gets an equal chance to play, there are those grandfathered in with **FridayFullTime** status.
 
-**FullTime** people are marked **IN** when the invite goes out
-(securing them a spot).
+Those with **FridayFullTime** status are placed under **ATTENDING**
+when the Friday invite goes out (securing them a Friday spot).  It is then their
+responsibility to mark **OUT** if they cannot make it
+(subject to [flake rule](#skater-flake-rule)).
 
-In every other regard, **FullTime** and **Spare** classifications are exactly the same.<br/>
-Examples:
-* everyone is classified in [InviteApp](#BenchApp) as **Spare**
-* everyone has same priority on [Skater Wait List](#skater-wait-list)
-* everyone is subject to [flake rule](#skater-flake-rule)
-* etc
+There is no **FridayFullTime** status in the [InviteApp](#benchapp).
+Everyone is classified as **SPARE** in the [InviteApp](#benchapp)
+and everything else about the invite system is the same among skaters.
 
-Currently, there are 24 skaters with classification **FridayFullTime**.
-No one is classified **TuesdayFullTime** or **ThursdayFullTime**.
-Only [POC](#poc) is allowed to be **FullTime** for more
-than one weekday (having said that, not all members of [points of contact](#poc)
-play all mornings).
+[POC](#poc):
+* for helping out with the pickup, members of [POC](#poc) are added to **ATTENDING** on all weekday morning events they choose to attend
+* not all members of [POC](#poc) attend all weekday morning events
 
-[Eric](#poc) decides who is **FullTime**.<br/>
+There are currently 24 **FridayFullTime** skaters.  [Eric](#poc) decides who gets **FridayFullTime** status.<br/>
+There will be no new **FridayFullTime** status people until the number is under 20 (people leave pickup).<br/>
 Please contact [Eric](#poc) if you have questions about this.
