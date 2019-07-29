@@ -283,6 +283,4 @@ and everything else about the invite system is the same among skaters.
 
 For helping out with the pickup, members of [POC](#poc) are added to **ATTENDING** on all weekday morning events they choose to attend when the invite goes out (note: not all members of [POC](#poc) attend all weekday morning events).
 
-There are currently 24 **FridayFullTime** skaters.  [Eric](#poc) decides who gets **FridayFullTime** status.<br/>
-There will be no new **FridayFullTime** status people until the number is under 20 (people leave pickup).<br/>
 Please contact [Eric](#poc) if you have questions about this.
