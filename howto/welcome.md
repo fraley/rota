@@ -1,8 +1,8 @@
 # Welcome!
 Welcome to [Vallco "Invite Only" **Morning** Pickup](https://www.benchapp.com/switch/season/43082):
-* **```Tue 6:30am-7:45am```** check ([upcoming schedule](../news/news.md))
-* **```Thu 7:15am-8:30am```** check ([upcoming schedule](../news/news.md))
-* **```Fri 6:30am-7:45am```** check ([upcoming schedule](../news/news.md))
+* **```Tue 6:30am-7:45am```** (check [upcoming morning schedule](../news/news.md))
+* **```Thu 7:15am-8:30am```** (check [upcoming morning schedule](../news/news.md))
+* **```Fri 6:30am-7:45am```** (check [upcoming morning schedule](../news/news.md))
 
 Aside: please [visit this page](https://docs.google.com/document/d/1e6UYNFmrvCi7fM4bLj8Qv0m4dCSBw4vzVBKEWP6DCe0/edit) for Saturday nights.
 
@@ -38,7 +38,7 @@ If you **are** already registered with [BenchApp](https://www.benchapp.com/):
   * log into [BenchApp](https://www.benchapp.com/) (if you are already logged in, log out and then log back in)
   * look for a chevron (drop down menu) in the upper left corner of dashboard and pick **Vallco Morning Pickup**
 
-Please note, that the **BenchApp** email may be in your spam folder, if so, please adjust spam settings.
+Please note, **BenchApp** email may be in your spam folder, if so, please adjust spam settings.
 
 For the rest of this document, **BenchApp** will be referred to as [InviteApp](#benchapp).
 
@@ -73,8 +73,9 @@ when [InviteApp](#benchapp) is allowed to send you emails.
 ### Your First RSVP
 
 Provided you get to the [Vallco Morning Pickup BenchApp](https://www.benchapp.com/switch/season/43082)
-dashboard, you will see upcoming events.<br/>
-Please mark IN or OUT and then [Confirm Your RSVP Status](#confirm-your-rsvp-status).
+dashboard, you will see the next 2 upcoming events.<br/>
+Please click on [Schedule](https://www.benchapp.com/schedule/list) to see all events in the next week (usually 3).<br/>
+Please mark IN or OUT (or join WAIT LIST) and then [Confirm Your RSVP Status](#confirm-your-rsvp-status).
 
 # Finding Vallco (Cupertino Ice Center)
 Please google for [Cupertino Ice Center](https://www.google.com/search?&q=cupertino+ice+center)
@@ -98,13 +99,14 @@ Get the email addresses of POC from the "welcome" email that was sent to you.
 If you have a question, please send an email to one or more [POC](#poc) members.
 
 The [POC](#poc) will use [team notifications](#notifications) feature of [InviteApp](#benchapp)
-for broadcast communication.  For example, skate cancellations will be communicated
-via [team notifications](#notifications).  You must register with [InviteApp](#benchapp)
-to get invites and [team notifications](#notifications).
+for broadcast communication.  For example, skate cancellations (example: "the Zamboni broke!") will be
+communicated via [team notifications](#notifications).
+You must register with [InviteApp](#benchapp) to get invites and [team notifications](#notifications).
 
 There is also a [Vallco Invite Only Pickup Facebook Group](https://www.facebook.com/groups/258581284603198/)
 that patrons use for fun, post photos, etc ([POC](#poc) does **not** use Facebook for important
-notifications). If you want to be part of that group, please send an email to [POC](#poc).
+notifications). If you want to be part of that group, please request so on Facebook
+(or please send an email to [POC](#poc)).
 
 # Skater IOU List
 IOU list keeps tracked of skaters that owe money or skaters who are owed money.
@@ -146,12 +148,13 @@ When a regular cannot make it, [POC](#poc) will:
 * marking **IN** is encouraged: **come on, let's play!** &#128513;
 
 # Skater Flake Rule
-By marking IN, you are committing to **play**.<br/>
-When marked IN at any time **&lt;** 24hrs before the event, you are committing to **pay**.
+Summary:
+* by entering **ATTENDING** or **WAIT LIST** in invite, you are announcing your intent to **play**
+* if you are in **ATTENDING** list in the invite **&lt;** 24hrs before the event, you are committed to **pay**
 
 Sepcifically:
-* If your choice is IN **&lt;** 24hrs before the event, you are committed to **pay**
-* If you mark IN (or join WAIT LIST) at any time **&lt;** 24hrs before the event, you are committing to **pay**
+* If you are in **ATTENDING** list **&lt;** 24hrs before the event, you are committed to **pay**
+* If join **ATTENDING** list **&lt;** 24hrs before the event, you are committing to **pay**
 * If you are on **ATTENDING** list and fail to show after committing to **pay**, this action is called a **FLAKE**
 * If you **FLAKE**, you will be put on the IOU list and you will owe the per skater cost for that event
 * If you need to **FLAKE** (life happens), [mark OUT](#skater-mark-out) and you *MIGHT* be able to avoid IOU with [Skater Wait List](#skater-wait-list)
@@ -160,17 +163,17 @@ Please see [Confirm Your RSVP Status](#confirm-your-rsvp-status) and make sure y
 
 The time listed as the start time of event in the [InviteApp](#benchapp) is the **scrimmage start time**.
 
-As of 2019-07-21:
+As of 2019-08-28:
 * 24hrs before Tue morning skate is Mon 6:30am
 * 24hrs before Thu morning skate is Wed 7:15am
 * 24hrs before Fri morning skate is Thu 6:30am
 
 **NOTE WELL: check event itself for start time:**
-* again, the times listed above are based on [upcoming schedule](../news/news.md) as of 2019-07-21
+* again, the times listed above are based on [upcoming schedule](../news/news.md) as of 2019-08-28
 
 **In conclusion**:
-* please do **not** mark IN (or join WAIT LIST) unless you plan on **playing**
-* please do **not** be IN anytime with **&lt;** 24hrs before the event unless you plan on **paying**
+* please do **not** enter **ATTENDING** or **WAIT LIST** unless you plan on **playing**
+* please do **not** be a part of **ATTENDING** list anytime with **&lt;** 24hrs before the event unless you plan on **paying**
 * all 20 spots must be paid for in order for [POC](#poc) to cover rink cost
 * no patron of [Vallco Morning Pickup](https://www.benchapp.com/switch/season/43082) (including [POC](#poc)) makes a profit on the pickup
 * [POC](#poc) members pay the per skater fee for each event, same as everyone else
@@ -185,23 +188,22 @@ You are encouraged to mark **OUT** as soon as you know you cannot make it:
   * tells everyone you definitely cannot make it
   * [POC](#poc) will not bug you with a text about open spots when they know you cannot make it
 * marking **IN &rarr; OUT**:
-  * may free up a spot for someone else to play
-  * may save you from an IOU
+  * frees up a spot for someone else to play
+  * _**might**_ save you from an IOU (see below)
 
 Marking IN &rarr; OUT &lt; 24 hrs before the event, is a [flake](#skater-flake-rule), _**however:**_
 * you _**should**_ still mark OUT when you know you cannot make it
 * marking OUT is better than leaving yourself IN and not showing
-* if someone on the wait list takes _**your**_ spot, your IOU is forgiven
-* flaked spots are filled by **WAIT LIST** takers **in the order skaters mark OUT** (so, mark OUT early if you need to)
+* if someone from **WAIT LIST** is assigned **the spot you are freeing up on a _full_ event**, your IOU is forgiven
+* flaked spots are filled by **WAIT LIST** takers **in the order skaters mark OUT** (so, mark OUT early)
 
-**In conclusion**, the earlier you mark OUT the better:
+**In conclusion**, the earlier you mark OUT, the better:
 * if **&gt;** 24hrs before event, no IOU
-* if **&lt;** 24hrs before event, a wait lister _**might**_ wipe your IOU
+* if **&lt;** 24hrs before event, a wait lister _**might**_ clear your IOU
 
 Even if it becomes apparent only 1 hour before the event that you cannot make it:
-* please mark OUT if you able to (get the mobile app)
+* please mark OUT if you can (note: the mobile app makes it easier to mark OUT on the go)
 * some patrons check for open spots the morning of events
-* [Skater Wait List](#skater-wait-list) is considered right up to the last minute
 
 # Skater Wait List
 If you would like to attend a full event, you may add yourself to **WAIT LIST**.
@@ -210,12 +212,15 @@ The wait list is sorted by this timestamp in ascending order.
 When a player leaves the **ATTENDING** list, the player at the top of **WAIT LIST**
 is moved to **ATTENDING** list.
 
-**WARNING**, consider this scenario:
-* you go to sleep the night before event as a member of **WAIT LIST**
-* enough people exit the **ATTENDING** list that _***you***_ are now on the **ATTENDING** list
-* you go to sleep in thinking you are not on **ATTENDING** list
-* as per [flake rule](#skater-flake-rule):<br/>_"When marked IN at any time **&lt;** 24hrs before the event, you are now committing to **pay**._<br/>**you are now committed to pay**
-* suggest: take yourself **OFF** the wait list the night before if you do not intend to wake up early and [confirm your RSVP status](#confirm-your-rsvp-status)
+**Current manual operation of WAIT LIST**:
+* currently, the moving of a player from **WAIT LIST** to **ATTENDING** list is manual<br/>(a request has been sent to the [InviteApp](#benchapp) folks to make it **automatic**)
+* management may not get around to moving players from **WAIT LIST** to **ATTENDING** immediately
+* management will confirm that you still want to play via text
+* skaters named "WAIT LIST1" and "WAIT LIST2" are used to reserve wait list spots under **ATTENDING**
+* after **8pm the night before event**
+   * management stops considering **WAIT LIST**
+   * removes "WAIT LIST1" and "WAIT LIST2" from **ATTENDING**
+   * if anyone drops out of **ATTENDING** in the middle of the night, those spots are open to anyone in the morning
 
 **As always, follow [confirm your RSVP status](#confirm-your-rsvp-status) instructions after any RSVP and see where you actually ended up.**<br/>
 
@@ -242,7 +247,7 @@ Invite for an event goes out a week in advance.<br/>
 Event time in invite is set to "scrimmage start".<br/>
 "doors open" is always a half hour before "scrimmage start".
 
-As of 2019-07-21:
+As of 2019-08-28:
 * Tue: scrimmage 6:30am - 8:00am (doors open 6:00am)
 * Thu: scrimmage 7:15am - 8:30am (doors open 6:45am)
 * Fri: scrimmage 6:30am - 8:00am (doors open 6:00am)
@@ -269,18 +274,34 @@ heading to the rink.
 
 # Spare Skaters
 
-There is contention for spots, and even though [POC](#poc) tries hard to make it so everyone
-gets an equal chance to play, there are those grandfathered in with **FridayFullTime** status.
+**Summary:**
+* Friday invite goes out around 9:30am the Friday before (a few hours short of 1 week in advance)
+* **FridayFullTime** skaters (there are around 20 grandfathered in with this status):
+   * get the Friday invite via email immediately when **Friday** invite goes out
+   * are allowed to mark IN under **ATTENDING** list immediately in invite
+* non **FridayFullTime** skaters
+   * can see the Friday invite in [InviteApp](#benchapp) and should get a push notification to mobile app
+   * are allowed to join **WAIT LIST** list immediately in invite
+        * NOTE: the _**change**_ from previous application behavior:
+            * [RosterBot/SportGo](https://lite.sportgo.com) had no **WAIT LIST**
+            * Spares were only able to join the Friday **WAIT LIST** on Tuesday around 9:30am
+   * on Tuesday around 9:30am
+        * the invite for the coming Friday is sent to everyone
+   * after Tuesday around 9:30am and as spots become available under **ATTENDING** list on the Friday invite:
+        * **WAIT LIST** folks are moved to **ATTENDING**
+        * when **WAIT LIST** is empty, anyone can enter **ATTENDING** list directly
+* Tuesday and Thursday skates
+   * all skaters get the invite immediately and can mark IN under **ATTENDING** immediately in invite
+   * all skaters beyond 20 max can join the **WAIT LIST** immediately in invite
 
-Those with **FridayFullTime** status are placed under **ATTENDING**
-when the Friday invite goes out (securing them a Friday spot).  It is then their
-responsibility to mark **OUT** if they cannot make it
-(subject to [flake rule](#skater-flake-rule)).
+**App Details:**
+* [RosterBot/SportGo](https://lite.sportgo.com) had the concepts of **Full-time** and **Spare**
+* [BenchApp](#benchapp) has similar concepts: **ROSTER** and **SPARE**
+* all skaters are **SPARE** in [BenchApp](#benchapp)
+* **ROSTER** is not used in [BenchApp](#benchapp) because it unintentionally treats **ROSTER** differently
+    * sends the Tuesday Thursday invite to them first before **SPARE**s
+    * puts them on top of **WAIT LIST**
 
-There is no **FridayFullTime** status in the [InviteApp](#benchapp).
-Everyone is classified as **SPARE** in the [InviteApp](#benchapp)
-and everything else about the invite system is the same among skaters.
+For helping out with the pickup, members of [POC](#poc) are added to **ATTENDING** list on all weekday morning events they choose to attend when the invite goes out (note: not all members of [POC](#poc) attend all weekday morning events).
 
-For helping out with the pickup, members of [POC](#poc) are added to **ATTENDING** on all weekday morning events they choose to attend when the invite goes out (note: not all members of [POC](#poc) attend all weekday morning events).
-
-Please contact [Eric](#poc) if you have questions about this.
+Please contact [Eric](#poc) if you have questions about **FridayFullTime**.
