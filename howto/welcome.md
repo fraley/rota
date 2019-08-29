@@ -77,24 +77,6 @@ dashboard, you will see the next 2 upcoming events.<br/>
 Please click on [Schedule](https://www.benchapp.com/schedule/list) to see all events in the next week (usually 3).<br/>
 Please mark IN or OUT (or join WAIT LIST) and then [Confirm Your RSVP Status](#confirm-your-rsvp-status).
 
-# Finding Vallco (Cupertino Ice Center)
-Please google for [Cupertino Ice Center](https://www.google.com/search?&q=cupertino+ice+center)
-and get the address and directions _**before**_ you try to head over to the rink.
-The door will be shut, but unlocked.
-Rink management wants the door shut (especially in the summer),
-to keep the environment more consistent for better ice conditions.
-
-# <a id="poc"/>Points Of Contact (POC)
-A "welcome" email containing [a link to this document](https://github.com/fraley/rota/blob/master/howto/welcome.md) was sent to you with these people cc'd:
-* Eric Strasilla runs the pickup
-* Paul Fraley manages roster
-* Senad Durakovic is treasurer
-* Ken Gudan manages goalies
-* Daniel Garaycochea runs [Saturday night](https://docs.google.com/document/d/1e6UYNFmrvCi7fM4bLj8Qv0m4dCSBw4vzVBKEWP6DCe0)
-
-Please contact any of these people when you have questions or feedback on anything in this document.<br/>
-Get the email addresses of POC from the "welcome" email that was sent to you.
-
 # Communication
 If you have a question, please send an email to one or more [POC](#poc) members.
 
@@ -146,6 +128,51 @@ When a regular cannot make it, [POC](#poc) will:
 * if you do not RSVP, you are assumed **OUT**
 * marking **OUT** when you know you cannot make it: [is encouraged](#skater-mark-out)
 * marking **IN** is encouraged: **come on, let's play!** &#128513;
+
+# Skater RSVP Too Fast
+
+Spots are limited and people race to mark **IN** and become part of **ATTENDING** list.
+
+There is a problem with [BenchApp](#benchapp) where it is possible to RSVP too fast:
+* there is a **window of time** between when the invite is created and when skaters are invited
+* during this window (&lt; 1min), a member of [POC](#poc) is racing to invite skaters<br/>(it is a manual process and there is no work around currently)
+* if you find an invite during this window:
+   * you will only be given the choice to join **WAIT LIST**
+* for Tuesday and Thursday invites
+   * everyone is invited a very short time after invite is created
+   * if you see the option to join **WAIT LIST** only and the event is **not full**:
+      * this means you are in the window and you need hit refresh on your browser
+      * try again to mark **IN** and join the **ATTENDING** list
+   * if you see the option to join **WAIT LIST** only and the event **is full**:
+      * go ahead and join the **WAIT LIST**
+* for Friday invites
+   * only [FridayFullTime](#spare-skaters) are invited a very short time after invite is created
+   * if you are [**not** FridayFullTime](#spare-skaters):
+       * go ahead and join the **WAIT LIST** immediately
+   * if you are [FridayFullTime](#spare-skaters):
+       * if you see the option to join **WAIT LIST** only and the event is **not full**
+          * this means you are in the window and you need hit refresh on your browser
+          * try again to mark **IN** and join the **ATTENDING** list
+
+**As always, follow [confirm your RSVP status](#confirm-your-rsvp-status) instructions after any RSVP and see where you actually ended up.**
+
+# Finding Vallco (Cupertino Ice Center)
+Please google for [Cupertino Ice Center](https://www.google.com/search?&q=cupertino+ice+center)
+and get the address and directions _**before**_ you try to head over to the rink.
+The door will be shut, but unlocked.
+Rink management wants the door shut (especially in the summer),
+to keep the environment more consistent for better ice conditions.
+
+# <a id="poc"/>Points Of Contact (POC)
+A "welcome" email containing [a link to this document](https://github.com/fraley/rota/blob/master/howto/welcome.md) was sent to you with these people cc'd:
+* Eric Strasilla runs the pickup
+* Paul Fraley manages roster
+* Senad Durakovic is treasurer
+* Ken Gudan manages goalies
+* Daniel Garaycochea runs [Saturday night](https://docs.google.com/document/d/1e6UYNFmrvCi7fM4bLj8Qv0m4dCSBw4vzVBKEWP6DCe0)
+
+Please contact any of these people when you have questions or feedback on anything in this document.<br/>
+Get the email addresses of POC from the "welcome" email that was sent to you.
 
 # Skater Flake Rule
 Summary:
@@ -222,7 +249,7 @@ is moved to **ATTENDING** list.
    * removes "WAIT LIST1" and "WAIT LIST2" from **ATTENDING**
    * if anyone drops out of **ATTENDING** in the middle of the night, those spots are open to anyone in the morning
 
-**As always, follow [confirm your RSVP status](#confirm-your-rsvp-status) instructions after any RSVP and see where you actually ended up.**<br/>
+**As always, follow [confirm your RSVP status](#confirm-your-rsvp-status) instructions after any RSVP and see where you actually ended up.**
 
 # Confirm Your RSVP Status
 
@@ -277,22 +304,22 @@ heading to the rink.
 **Summary:**
 * Friday invite goes out around 9:30am the Friday before (a few hours short of 1 week in advance)
 * **FridayFullTime** skaters (there are around 20 grandfathered in with this status):
-   * get the Friday invite via email immediately when **Friday** invite goes out
-   * are allowed to mark IN under **ATTENDING** list immediately in invite
-* non **FridayFullTime** skaters
+   * get the Friday invite via email immediately after **Friday** invite is created
+   * are allowed to mark IN and join **ATTENDING** list immediately
+* **not FridayFullTime** skaters
    * can see the Friday invite in [InviteApp](#benchapp) and should get a push notification to mobile app
    * are allowed to join **WAIT LIST** list immediately in invite
         * NOTE: the _**change**_ from previous application behavior:
             * [RosterBot/SportGo](https://lite.sportgo.com) had no **WAIT LIST**
             * Spares were only able to join the Friday **WAIT LIST** on Tuesday around 9:30am
    * on Tuesday around 9:30am
-        * the invite for the coming Friday is sent to everyone
+        * the invite for the coming Friday is sent to everyone in email
    * after Tuesday around 9:30am and as spots become available under **ATTENDING** list on the Friday invite:
         * **WAIT LIST** folks are moved to **ATTENDING**
         * when **WAIT LIST** is empty, anyone can enter **ATTENDING** list directly
 * Tuesday and Thursday skates
-   * all skaters get the invite immediately and can mark IN under **ATTENDING** immediately in invite
-   * all skaters beyond 20 max can join the **WAIT LIST** immediately in invite
+   * all skaters get the invite immediately and can mark IN to join **ATTENDING** list immediately
+   * all skaters beyond 20 max can join the **WAIT LIST** immediately
 
 **App Details:**
 * [RosterBot/SportGo](https://lite.sportgo.com) had the concepts of **Full-time** and **Spare**
@@ -301,6 +328,7 @@ heading to the rink.
 * **ROSTER** is not used in [BenchApp](#benchapp) because it unintentionally treats **ROSTER** differently
     * sends the Tuesday Thursday invite to them first before **SPARE**s
     * puts them on top of **WAIT LIST**
+* please read the section on [Skater RSVP Too Fast](#skater-rsvp-too-fast) for details on a bug with [BenchApp](#benchapp)
 
 For helping out with the pickup, members of [POC](#poc) are added to **ATTENDING** list on all weekday morning events they choose to attend when the invite goes out (note: not all members of [POC](#poc) attend all weekday morning events).
 
