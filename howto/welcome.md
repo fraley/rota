@@ -294,13 +294,14 @@ heading to the rink.
      * can see the Friday invite **immediately** in [InviteApp](#benchapp) in the [Schedule page](https://www.benchapp.com/schedule/list)
      * get a push notification to mobile app (if notifications are configured as such)
      * are allowed to join the **WAIT LIST** list **immediately** in invite
-* on Tuesday around 9:30am
-     * the invite for the coming Friday is sent to any skater that did not already receive and invite
-* after Tuesday around 9:30am and as spots become available under **ATTENDING** list on the Friday invite:
-     * until there is no room left under **ATTENDING** (max 22: 20 skaters and 2 goalies)
-         * skaters in **WAIT LIST** are moved to **ATTENDING** in the order listed under **WAIT LIST**
-     * as room becomes available under **ATTENDING** (max 22: 20 skaters and 2 goalies)
-         * anyone can enter **ATTENDING** list directly
+* on and after Tuesday around 9:30am, the invite for **the coming Friday**:
+     * is sent to any skater that did not already receive the Friday invite
+
+For all skates, if **ATTENDING** is full (>= 22: 20 skaters and 2 goalies):
+* all skaters can join the **WAIT LIST** immediately
+
+For all skates, if **ATTENDING** not full (< 22: 20 skaters and 2 goalies):
+* anyone can enter **ATTENDING** list immediately by marking **IN**
 
 For helping out with the pickup, members of [POC](#poc) are added to **ATTENDING** list on all weekday morning events they choose to attend when the invite goes out (note: not all members of [POC](#poc) attend all weekday morning events).
 
