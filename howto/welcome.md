@@ -284,12 +284,12 @@ heading to the rink.
 **Friday skates:**
 * Friday invite goes out around 9:30am the Friday before (a few hours short of 1 week in advance)
 
-**FridayFullTime** skaters:**
+**FridayFullTime** skaters:
    * there are around 20 skaters with this legacy status
    * get the Friday invite via email **immediately** after **Friday** invite is created
    * are allowed to mark IN and join **ATTENDING** list immediately
 
-**non-FridayFullTime** skaters
+**non-FridayFullTime** skaters:
 * when the **Friday** invite is created:
      * can see the Friday invite **immediately** in [InviteApp](#benchapp) in the [Schedule page](https://www.benchapp.com/schedule/list)
      * get a push notification to mobile app (if notifications are configured as such)
@@ -297,7 +297,7 @@ heading to the rink.
 * on Tuesday around 9:30am
      * the invite for the coming Friday is sent to any skater that did not already receive and invite
 * after Tuesday around 9:30am and as spots become available under **ATTENDING** list on the Friday invite:
-     * **WAIT LIST** folks are moved to **ATTENDING** provided there is room
+     * skaters in **WAIT LIST** are moved to **ATTENDING** in the order listed under **WAIT LIST** until there is no room left under **ATTENDING**
      * when **WAIT LIST** is empty, anyone can enter **ATTENDING** list directly
 
 For helping out with the pickup, members of [POC](#poc) are added to **ATTENDING** list on all weekday morning events they choose to attend when the invite goes out (note: not all members of [POC](#poc) attend all weekday morning events).
