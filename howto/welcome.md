@@ -275,33 +275,27 @@ heading to the rink.
 # Spare Skaters
 
 **Summary:**
-* Friday invite goes out around 9:30am the Friday before (a few hours short of 1 week in advance)
-* **FridayFullTime** skaters (there are around 20 grandfathered in with this status):
-   * get the Friday invite via email immediately after **Friday** invite is created
+* Tuesday and Thursday skates
+   * no difference between **FridayFullTime** skaters and **not FridayFullTime** skaters
+   * once **Tuesday** or **Thursday** invite is created:
+        * all skaters get the invite **immediately** through all means (email, push, etc)
+        * all skaters can mark IN to join **ATTENDING** list **immediately**
+        * all skaters beyond 20 max can join the **WAIT LIST** **immediately**
+* Friday skates
+   * Friday invite goes out around 9:30am the Friday before (a few hours short of 1 week in advance)
+* **FridayFullTime** skaters (there are around 20 with this legacy status):
+   * get the Friday invite via email **immediately** after **Friday** invite is created
    * are allowed to mark IN and join **ATTENDING** list immediately
 * **not FridayFullTime** skaters
-   * can see the Friday invite in [InviteApp](#benchapp) and should get a push notification to mobile app
-   * are allowed to join **WAIT LIST** list immediately in invite
-        * NOTE: the _**change**_ from previous application behavior:
-            * [RosterBot/SportGo](https://lite.sportgo.com) had no **WAIT LIST**
-            * Spares were only able to join the Friday **WAIT LIST** on Tuesday around 9:30am
+   * when the **Friday** invite is created:
+        * can see the Friday invite **immediately** in [InviteApp](#benchapp) in the [Schedule page](https://www.benchapp.com/schedule/list)
+        * get a push notification to mobile app (if notifications are configured as such)
+        * are allowed to join the **WAIT LIST** list **immediately** in invite
    * on Tuesday around 9:30am
-        * the invite for the coming Friday is sent to everyone in email
+        * the invite for the coming Friday is sent to any skater that did not already receive and invite
    * after Tuesday around 9:30am and as spots become available under **ATTENDING** list on the Friday invite:
-        * **WAIT LIST** folks are moved to **ATTENDING**
+        * **WAIT LIST** folks are moved to **ATTENDING** provided there is room
         * when **WAIT LIST** is empty, anyone can enter **ATTENDING** list directly
-* Tuesday and Thursday skates
-   * all skaters get the invite immediately and can mark IN to join **ATTENDING** list immediately
-   * all skaters beyond 20 max can join the **WAIT LIST** immediately
-
-**App Details:**
-* [RosterBot/SportGo](https://lite.sportgo.com) had the concepts of **Full-time** and **Spare**
-* [BenchApp](#benchapp) has similar concepts: **ROSTER** and **SPARE**
-* all skaters are **SPARE** in [BenchApp](#benchapp)
-* **ROSTER** is not used in [BenchApp](#benchapp) because it unintentionally treats **ROSTER** differently
-    * sends the Tuesday Thursday invite to them first before **SPARE**s
-    * puts them on top of **WAIT LIST**
-* please read the section on [Skater RSVP Too Fast](#skater-rsvp-too-fast) for details on a bug with [BenchApp](#benchapp)
 
 For helping out with the pickup, members of [POC](#poc) are added to **ATTENDING** list on all weekday morning events they choose to attend when the invite goes out (note: not all members of [POC](#poc) attend all weekday morning events).
 
