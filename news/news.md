@@ -4,22 +4,6 @@
 | Date                                 | Time                         | Notes                        |
 | :------------------------------------|:-----------------------------|:-----------------------------|
 |                                      |                              |                              |
-| 2019-10-29 Tue                       | 6:30am-7:45am (doors 6am)    |                              |
-| 2019-10-31 Thu                       | 7:15am-8:30am (doors 6:45am) |                              |
-| 2019-11-01 Fri                       | 6:30am-7:45am (doors 6am)    |                              |
-|                                      |                              |                              |
-| 2019-11-05 Tue                       | 6:30am-7:45am (doors 6am)    |                              |
-| 2019-11-07 Thu                       | 7:15am-8:30am (doors 6:45am) |                              |
-| 2019-11-08 Fri                       | 6:30am-7:45am (doors 6am)    |                              |
-|                                      |                              |                              |
-| 2019-11-12 Tue                       | 6:30am-7:45am (doors 6am)    |                              |
-| 2019-11-14 Thu                       | 7:15am-8:30am (doors 6:45am) |                              |
-| 2019-11-15 Fri                       | 6:30am-7:45am (doors 6am)    |                              |
-|                                      |                              |                              |
-| 2019-11-19 Tue                       | 6:30am-7:45am (doors 6am)    |                              |
-| 2019-11-21 Thu                       | 7:15am-8:30am (doors 6:45am) |                              |
-| 2019-11-22 Fri                       | 6:30am-7:45am (doors 6am)    |                              |
-|                                      |                              |                              |
 | 2019-11-26 Tue                       | 6:30am-7:45am (doors 6am)    |                              |
 | 2019-11-28 Thu                       | NO SKATE                     | Thanksgiving                 |
 | 2019-11-29 Fri                       | 6:30am-7:45am (doors 6am)    | We skate Black Friday!       |
