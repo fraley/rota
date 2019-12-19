@@ -1,31 +1,29 @@
 
 # Upcoming Morning Schedule
 
+Notes:
+* Thu 2019-12-26
+   * is **earlier than normal Thu time**
+* Mario camps Mon 2019-12-23 - Fri 2019-12-27
+   * start at 8am
+   * we need to be off ice at 7:45am
+   * please be on time and ready to skate by 6:30am
+* Mario camps Mon 2019-12-30 - Thu 2020-01-02
+   * start at 7am
+   * we cancelled Tue 2019-12-31 and Thu 2020-01-02 as they were not feasible
+   * Fri 2020-01-03, no camp, we are green light for normal morning pickup time
+
 | Date                                 | Time                         | Notes                        |
 | :------------------------------------|:-----------------------------|:-----------------------------|
 |                                      |                              |                              |
-| 2019-11-26 Tue                       | 6:30am-7:45am (doors 6am)    |                              |
-| 2019-11-28 Thu                       | NO SKATE                     | Thanksgiving                 |
-| 2019-11-29 Fri                       | 6:30am-7:45am (doors 6am)    | We skate Black Friday!       |
-|                                      |                              |                              |
-| 2019-12-03 Tue                       | 6:30am-7:45am (doors 6am)    |                              |
-| 2019-12-05 Thu                       | 7:15am-8:30am (doors 6:45am) |                              |
-| 2019-12-06 Fri                       | 6:30am-7:45am (doors 6am)    |                              |
-|                                      |                              |                              |
-| 2019-12-10 Tue                       | 6:30am-7:45am (doors 6am)    |                              |
-| 2019-12-12 Thu                       | 7:15am-8:30am (doors 6:45am) |                              |
-| 2019-12-13 Fri                       | 6:30am-7:45am (doors 6am)    |                              |
-|                                      |                              |                              |
-| 2019-12-17 Tue                       | 6:30am-7:45am (doors 6am)    |                              |
-| 2019-12-19 Thu                       | 7:15am-8:30am (doors 6:45am) |                              |
 | 2019-12-20 Fri                       | 6:30am-7:45am (doors 6am)    |                              |
 |                                      |                              |                              |
-| 2019-12-24 Tue                       | NO SKATE                     | Christmas Eve                |
-| 2019-12-26 Thu                       | NO SKATE                     | Day After Christmas          |
+| 2019-12-24 Tue                       | 6:30am-7:45am (doors 6am)    | Christmas Eve                |
+| 2019-12-26 Thu                       | 6:30am-7:45am (doors 6am)    | Day After Christmas          |
 | 2019-12-27 Fri                       | 6:30am-7:45am (doors 6am)    |                              |
 |                                      |                              |                              |
-| 2019-12-31 Tue                       | 6:30am-7:45am (doors 6am)    |                              |
-| 2020-01-02 Thu                       | 7:15am-8:30am (doors 6:45am) |                              |
+| 2019-12-31 Tue                       | NO SKATE                     | New Years Eve                |
+| 2020-01-02 Thu                       | NO SKATE                     | Day After New Years          |
 | 2020-01-03 Fri                       | 6:30am-7:45am (doors 6am)    |                              |
 |                                      |                              |                              |
 | 2020-01-07 Tue                       | 6:30am-7:45am (doors 6am)    |                              |
