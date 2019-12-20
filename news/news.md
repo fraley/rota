@@ -4,8 +4,6 @@
 | Date                                 | Time                         | Notes                                         |
 | :------------------------------------|:-----------------------------|:----------------------------------------------|
 |                                      |                              |                                               |
-| 2019-12-20 Fri                       | 6:30am-7:45am (doors 6am)    |                                               |
-|                                      |                              |                                               |
 | 2019-12-24 Tue                       | 6:30am-7:45am (doors 6am)    | Christmas Eve                                 |
 | 2019-12-26 Thu                       | 6:30am-7:45am (doors 6am)    | Day After Christmas (note: early start time)  |
 | 2019-12-27 Fri                       | 6:30am-7:45am (doors 6am)    |                                               |
